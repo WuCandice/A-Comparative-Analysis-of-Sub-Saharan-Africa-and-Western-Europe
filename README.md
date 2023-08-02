@@ -20,8 +20,7 @@ The plot displays the average generosity between Sub-Saharan Africa and Western 
 
 <img width="781" alt="Screenshot 2023-07-30 at 02 49 30" src="https://github.com/WuCandice/A-Comparative-Analysis-of-Sub-Saharan-Africa-and-Western-Europe/assets/127648422/4fb084db-dace-4813-9c7d-2696507c28ff"></p>
 
-In conclusion, improving happiness levels globally can contribute to overall well-being. It is important to understand local contexts and prioritize research into improving social support and life expectancy in regions with lower happiness scores. Through
-continued analysis and efforts to improve happiness levels, we can create a better world for all.
+In conclusion, improving happiness levels globally can contribute to overall well-being. It is important to understand local contexts and prioritize research into improving social support and life expectancy in regions with lower happiness scores. Through continued analysis and efforts to improve happiness levels, we can create a better world for all.</p>
 
 <img width="782" alt="Screenshot 2023-07-30 at 02 49 43" src="https://github.com/WuCandice/A-Comparative-Analysis-of-Sub-Saharan-Africa-and-Western-Europe/assets/127648422/cb73e74a-c802-4fb9-b2da-c395b63a16b5"></p>
 
