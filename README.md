@@ -1,8 +1,7 @@
-<h2 style="border-bottom: none;">A Comparative Analysis of Sub Saharan Africa and Western Europe</h2>
+# A Comparative Analysis of Sub Saharan Africa and Western Europe
 <p align="center">
   <a href="https://public.tableau.com/app/profile/candice.wuuuuu/viz/AComparativeAnalysisofSub-SaharanAfricaandWesternEurope/AComparativeAnalysisofSub-SaharanAfricaandWesternEurope" style="text-decoration: none; border-bottom: none;">Review my Dashboard</a>
 </p>
-
 
 <img width="785" alt="Screenshot 2023-07-30 at 02 29 24" src="https://github.com/WuCandice/A-Comparative-Analysis-of-Sub-Saharan-Africa-and-Western-Europe/assets/127648422/2f6cc94e-67b3-428b-b944-74f0c2bad20d"></p>
 I am a data analyst for the United Nations, I would like to present to you a comparative analysis of the role of cultural factors in happiness scores between Sub-Saharan Africa and Western Europe. Happiness is a fundamental human goal, and understanding the factors that contribute to happiness is crucial for policymakers and development practitioners. To address this analysis, I compared the happiness scores of these two regions and examined the relationship between five factors: economic production, social support, healthy life expectancy, corruption, and generosity. My findings shed light on the key determinants of happiness and provide insights into how these factors influence it.</p>
@@ -33,7 +32,7 @@ Here are three recommendations for United Nations leaders based on the informati
   One of the factors that can influence happiness levels is healthy life expectancy. Thus, leaders should prioritize improving access to healthcare, increasing awareness of healthy lifestyles, and investing in disease prevention and treatment programs.</p>
 - **Improve social support in Sub-Saharan Africa**:</p>
 Social support is a crucial factor in promoting happiness, and leaders should prioritize efforts to enhance social support systems in Sub-Saharan Africa. This could include initiatives such as enhancing social safety nets, strengthening social protection systems, encouraging family and community support, and promoting mental health awareness and support services.</p>
--**Combat corruption in Sub-Saharan Africa**:</p>
+- **Combat corruption in Sub-Saharan Africa**:</p>
   Corruption is a major obstacle to happiness and development in Sub-Saharan Africa. Leaders should prioritize efforts to combat corruption by strengthening anti-corruption laws, improving transparency and accountability in government and business, promoting public awareness and education on the negative impacts of corruption, and supporting civil society and media efforts to expose and deter corruption.</p>
   
 I hope this presentation will contribute to the ongoing efforts to enhance human development and promote happiness worldwide. Thank you for your reading.
