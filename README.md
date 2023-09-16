@@ -1,4 +1,4 @@
-# A Comparative Analysis of Sub Saharan Africa and Western Europe
+## A Comparative Analysis of Sub Saharan Africa and Western Europe
 <p align="center">
   <a href="https://public.tableau.com/app/profile/candice.wuuuuu/viz/AComparativeAnalysisofSub-SaharanAfricaandWesternEurope/AComparativeAnalysisofSub-SaharanAfricaandWesternEurope" style="text-decoration: none; border-bottom: none;">Review my Dashboard</a>
 </p>
