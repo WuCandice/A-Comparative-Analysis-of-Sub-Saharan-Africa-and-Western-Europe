@@ -1,7 +1,8 @@
-## A Comparative Analysis of Sub Saharan Africa and Western Europe
+<h2 style="border-bottom: none;">A Comparative Analysis of Sub Saharan Africa and Western Europe</h2>
 <p align="center">
   <a href="https://public.tableau.com/app/profile/candice.wuuuuu/viz/AComparativeAnalysisofSub-SaharanAfricaandWesternEurope/AComparativeAnalysisofSub-SaharanAfricaandWesternEurope" style="text-decoration: none; border-bottom: none;">Review my Dashboard</a>
 </p>
+
 
 <img width="785" alt="Screenshot 2023-07-30 at 02 29 24" src="https://github.com/WuCandice/A-Comparative-Analysis-of-Sub-Saharan-Africa-and-Western-Europe/assets/127648422/2f6cc94e-67b3-428b-b944-74f0c2bad20d"></p>
 I am a data analyst for the United Nations, I would like to present to you a comparative analysis of the role of cultural factors in happiness scores between Sub-Saharan Africa and Western Europe. Happiness is a fundamental human goal, and understanding the factors that contribute to happiness is crucial for policymakers and development practitioners. To address this analysis, I compared the happiness scores of these two regions and examined the relationship between five factors: economic production, social support, healthy life expectancy, corruption, and generosity. My findings shed light on the key determinants of happiness and provide insights into how these factors influence it.</p>
