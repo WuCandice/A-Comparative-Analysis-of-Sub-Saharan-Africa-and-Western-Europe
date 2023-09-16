@@ -1,6 +1,6 @@
 # A Comparative Analysis of Sub Saharan Africa and Western Europe
 <p align="center">
-  <a href="https://public.tableau.com/app/profile/candice.wuuuuu/viz/AComparativeAnalysisofSub-SaharanAfricaandWesternEurope/AComparativeAnalysisofSub-SaharanAfricaandWesternEurope" style="text-decoration: none;">Review my Dashboard</a>
+  <a href="https://public.tableau.com/app/profile/candice.wuuuuu/viz/AComparativeAnalysisofSub-SaharanAfricaandWesternEurope/AComparativeAnalysisofSub-SaharanAfricaandWesternEurope" style="text-decoration: none; border-bottom: none;">Review my Dashboard</a>
 </p>
 
 <img width="785" alt="Screenshot 2023-07-30 at 02 29 24" src="https://github.com/WuCandice/A-Comparative-Analysis-of-Sub-Saharan-Africa-and-Western-Europe/assets/127648422/2f6cc94e-67b3-428b-b944-74f0c2bad20d"></p>
